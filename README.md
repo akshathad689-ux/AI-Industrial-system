@@ -17,6 +17,6 @@ An AI-based industrial safety monitoring system using OpenCV and Telegram alerts
 
 ## Future Improvements
 - YOLOv8 Human Detection
-- Arduino MQ2 Gas Sensor
+- ESP32, MQ2 Gas Sensor
 - Robot Navigation
 - Voice Alert System
